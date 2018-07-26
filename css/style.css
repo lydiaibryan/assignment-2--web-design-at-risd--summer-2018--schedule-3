@@ -9,5 +9,5 @@ body {
 img{color: #900; width:300px;}
 
 .image-item-container{
-   display: flex; background-color: green;
-}
+   display: flex; background-color: green;}
+.image-item{background-color: blue;}
