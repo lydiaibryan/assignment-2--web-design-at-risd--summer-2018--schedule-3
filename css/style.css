@@ -10,5 +10,5 @@ img{color: #900; width:300px;}
 
 .image-item-container{
    display: flex; background-color: green;}
-.image-item{background-color: blue;}
+.image-item{background-color: blue;width:300px;}
 h2 {font-family:'times new roman' , serif}
