@@ -9,6 +9,6 @@ body {
 img{color: #900; width:300px;}
 
 .image-item-container{
-   display: flex; background-color: green;}
-.image-item{background-color: blue;width:300px;margin-left:10px;margin-right:10px;}
+   display: flex; background-color: green;justify-content: space-around;}
+.image-item{background-color: blue;width:300px;}
 h2 {font-family:'times new roman' , serif}
