@@ -4,9 +4,11 @@ font-size: 72px;margin-top: 28px;text-align:center; }
 /* blah blah blah this is a comment */
 body {background-color: yellow;font-family: 'ibm plex sans',
    sans-serif; width:960px; margin: auto;}
+
 img{color: #900; width:300px;}
 
 .image-item-container{
    display: flex; background-color: green;justify-content: space-around;}
-.image-item{background-color: blue;width:300px;}
+.image-item{background-color: blue;width:300px;flex-basis: 30%}
+
 h2 {font-family:'times new roman' , serif}
