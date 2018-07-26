@@ -3,7 +3,14 @@ h1 {font-family: 'patua one' , cursive;
 font-size: 72px;margin-top: 28px;text-align:center; }
 /* blah blah blah this is a comment */
 body {
-   background-color: yellow;
+   background-color: yellow;font-family: 'ibm plex sans',
+   sans-serif; width:960px; margin: auto;
+
+
 
 }
-.image-item{height: 200px;background-color: purple}
+img{color: #900; width:300px;}
+
+.image-item-container{
+   display: flex;
+}
