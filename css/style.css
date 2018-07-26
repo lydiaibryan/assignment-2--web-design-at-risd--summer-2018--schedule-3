@@ -11,14 +11,5 @@ img{color: #900; width:300px;}
    display: flex; background-color: green;justify-content: space-around;}
 .image-item{background-color: blue;width:300px;flex-basis: 30%}
 :nth-child(4){font-size:30px;}
-.st0
-{
-  background : #8C3E3E;
-  background : rgba(140, 62, 62, 1);
-  border-style : Solid;
-  border-color : #FFFFFF;
-  border-color : rgba(255, 255, 255, 1);
-  border-width : 1px;
-}
 
 h2 {font-family:'times new roman' , serif}
