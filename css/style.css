@@ -1,16 +1,1 @@
 * {margin: 0;padding:0}
-
-h1 {font-family: 'patua one' , cursive;
-font-size: 72px;margin-top: 28px;text-align:center; }
-/* blah blah blah this is a comment */
-body {background-color: yellow;font-family: 'ibm plex sans',
-   sans-serif; width:960px; margin: auto;}
-
-img{color: #900; width:300px;}
-
-.image-item-container{
-   display: flex; background: black url('../img/Asset 1.png');justify-content: space-around;}
-.image-item{background-color: blue;width:300px;flex-basis: 30%}
-:nth-child(4){font-size:30px;}
-
-h2 {font-family:'times new roman' , serif}
