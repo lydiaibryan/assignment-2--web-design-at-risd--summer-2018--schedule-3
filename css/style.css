@@ -35,5 +35,5 @@ h2{padding:10px;margin-top:10px;margin-bottom:20px;font-family : Didot;
     line-height : 20px;
     color : #FFE990}
 
-    .reviews{background-color: rgba(185, 215, 255, 0.7);font-style: italic;}
+    .reviews{width:400px;background-color: rgba(185, 215, 255, 0.7);font-style: italic;}
     cite{font-style: oblique;}
