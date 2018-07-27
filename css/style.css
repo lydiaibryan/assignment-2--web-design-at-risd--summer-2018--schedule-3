@@ -2,7 +2,7 @@
 body {background-image: url("https://c1.staticflickr.com/9/8565/15786900410_0e19d8a5df_b.jpg"); background-repeat:no-repeat; background-attachment:scroll; background-position: center; background-size:contain;}
 .layer {
     background-color: rgba(204, 229, 255, 0.7);
-    position: relative;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
@@ -14,19 +14,19 @@ h1 { font-family : Didot;
   color : #000000;
   color : rgb(0, 0, 0); position:fixed; justify-content: center;
 }
-h2{padding:10px;font-family : Akzidenz-Grotesk BQ;
+h2{position:absolute; padding:10px;font-family : Akzidenz-Grotesk BQ;
   font-size : 30px;
   line-height : 20px;
   color : #000000;
   color : rgb(0, 0, 0);}
-  p {font-family : Akzidenz-Grotesk BQ;
+  p {position:absolute; font-family : Akzidenz-Grotesk BQ;
   font-size : 16px;
   line-height : 20px;
   color : #000000;
   color : rgb(0, 0, 0);}
-  h3{padding:10px;font-family : Akzidenz-Grotesk BQ;
+  h3{position:absolute; padding:10px;font-family : Akzidenz-Grotesk BQ;
   font-size : 20px;
   line-height : 20px;
   color : #000000;
   color : rgb(0, 0, 0);}
-  .album{padding: 20px;background-color: #fff1a0;}
+  .album{position:absolute; padding: 20px;background-color: #fff1a0;}
