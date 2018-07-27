@@ -15,7 +15,17 @@ h1 { font-family : Didot;
   color : rgb(0, 0, 0); position:fixed; justify-content: center;
 }
 h2{font-family : Akzidenz-Grotesk BQ;
+  font-size : 30px;
+  line-height : 20px;
+  color : #000000;
+  color : rgb(0, 0, 0);}
+  p {font-family : Akzidenz-Grotesk BQ;
   font-size : 16px;
+  line-height : 20px;
+  color : #000000;
+  color : rgb(0, 0, 0);}
+  h3{font-family : Akzidenz-Grotesk BQ;
+  font-size : 20px;
   line-height : 20px;
   color : #000000;
   color : rgb(0, 0, 0);}
