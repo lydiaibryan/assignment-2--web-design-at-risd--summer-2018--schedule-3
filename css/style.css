@@ -12,5 +12,6 @@ h1 {
   font-family: "Rotis SemiSerif Std";
   font-size: 60px;
   color: #000000;
-  color: rgb(0, 0, 0);position:fixed; align-content: center;
+  color: rgb(0, 0, 0);
+  align-content: center;
 }
