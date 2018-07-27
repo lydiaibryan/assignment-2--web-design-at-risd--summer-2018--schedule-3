@@ -8,7 +8,7 @@ h1 { font-family : Didot;
   letter-spacing : 2.5px;
   color : #b9d7ff; position:relative; justify-content: center;
 }
-h2{padding:10px;margin-top:20px;font-family : Didot;
+h2{padding:10px;margin-top:10px;margin-bottom:20px;font-family : Didot;
   font-size : 70px;
   line-height : 20px;
   color : #FFE990
