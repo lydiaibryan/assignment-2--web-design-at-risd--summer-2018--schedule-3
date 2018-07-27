@@ -8,8 +8,8 @@ h1 { font-family : Didot;
   letter-spacing : 2.5px;
   color : #b9d7ff; position:relative; justify-content: center;
 }
-h2{padding:10px;margin-top:20px;font-family : Akzidenz-Grotesk BQ;
-  font-size : 30px;
+h2{padding:10px;margin-top:20px;font-family : Didot;
+  font-size : 70px;
   line-height : 20px;
   color : #ffa700
   ;}
@@ -23,4 +23,4 @@ h2{padding:10px;margin-top:20px;font-family : Akzidenz-Grotesk BQ;
   line-height : 20px;
   color : #000000;
   color : rgb(0, 0, 0);}
-  .album{padding: 20px;background-color: #b9d7ff;}
+  .album{padding: 20px;background-color: rgba(185, 215, 255, 0.7);}
