@@ -2,18 +2,18 @@
 .layer {
 
 }
-body{background-color:#3A3D3D;background-image:url(../img/arvo.jpg);background-position:center;background-repeat:no-repeat;}
-h1 {font-family: 'Poiret One', cursive;
+body{background-color:#3A3D3D;background-image:url(../img/arvo.jpg);background-position:right;background-repeat:no-repeat;}
+h1 {font-family: 'Cantata One', serif;
   font-size : 100px;
   letter-spacing : 2.5px;
-  color : #b9d7ff; position:relative; justify-content: center;
-margin-left:40px}
+  color : #b9d7ff; position:relative;text-align:center;
+}
 h2{padding:10px;margin-top:10px;margin-bottom:20px;font-family : Didot;
   font-size : 70px;
   line-height : 20px;
-  color : #FFE990
+  color : #000000
   ;}
-  p {font-family : Akzidenz-Grotesk BQ;
+  p {font-family: Akzidenz-Grotesk BQ;
   font-size : 16px;
   line-height : 20px;
   color : #000000;
@@ -33,7 +33,7 @@ h2{padding:10px;margin-top:10px;margin-bottom:20px;font-family : Didot;
   h3{padding:10px;margin-top:10px;margin-bottom:20px;font-family : Didot;
     font-size : 30px;
     line-height : 20px;
-    color : #FFE990;}
+    color : #000000;}
 
     .reviews{margin-left:40px;align-content:center;width:600px;background-color: rgba(185, 215, 255, 0.7);font-style: italic;}
     cite{font-style: oblique;}
