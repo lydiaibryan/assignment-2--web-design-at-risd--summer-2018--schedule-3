@@ -3,12 +3,12 @@
 
 }
 body{background-color:#3A3D3D;background-image:url(../img/arvo.jpg);background-position:right;background-repeat:no-repeat;}
-h1 {font-family: 'Cantata One', serif;
+h1 {font-family: 'Poiret One', cursive;
   font-size : 100px;
   letter-spacing : 2.5px;
   color : #b9d7ff; position:relative;text-align:center;
 }
-h2{padding:10px;margin-top:10px;margin-bottom:20px;font-family : Didot;
+h2{padding:10px;margin-top:10px;margin-bottom:20px;font-family: 'Cantata One', serif;
   font-size : 70px;
   line-height : 20px;
   color : #000000
@@ -18,7 +18,7 @@ h2{padding:10px;margin-top:10px;margin-bottom:20px;font-family : Didot;
   line-height : 20px;
   color : #000000;
   color : rgb(0, 0, 0);padding:6px}
-  h3{padding:2px;font-family : Akzidenz-Grotesk BQ;
+  h3{padding:2px;font-family: 'Cantata One', serif;
   font-size : 20px;
   line-height : 20px;
   color : #000000;
