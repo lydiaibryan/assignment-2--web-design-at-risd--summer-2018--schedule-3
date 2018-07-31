@@ -2,6 +2,7 @@
 .layer {
 
 }
+body{background-image:url(../img/arvo.jpg);background-position:center;background-repeat:no-repeat;}
 h1 {font-family: 'Hanalei Fill', cursive;;
   font-size : 100px;
   letter-spacing : 2.5px;
