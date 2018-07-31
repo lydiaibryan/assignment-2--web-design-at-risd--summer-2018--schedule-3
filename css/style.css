@@ -2,7 +2,7 @@
 .layer {
 
 }
-body{width:900px;}
+body{width:900px;margin:auto;}
 body{background-color:#3A3D3D;background-image:url(../img/arvo.jpg);background-position:top,center;background-repeat:no-repeat;
 background-attachment:fixed,scroll;}
 h1 {font-family: 'Antic Didone', serif;
