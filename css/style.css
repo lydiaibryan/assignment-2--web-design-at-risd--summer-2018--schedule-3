@@ -2,8 +2,9 @@
 .layer {
 
 }
-body{background-color:#3A3D3D;background-image:url(../img/arvo.jpg);background-position:right;background-repeat:no-repeat;
-background-attachment:local,scroll;}
+body{width:900px;}
+body{background-color:#3A3D3D;background-image:url(../img/arvo.jpg);background-position:top,center;background-repeat:no-repeat;
+background-attachment:fixed,scroll;}
 h1 {font-family: 'Antic Didone', serif;
   font-size : 100px;
   letter-spacing : 2.5px;
