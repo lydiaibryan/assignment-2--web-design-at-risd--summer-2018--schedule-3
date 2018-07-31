@@ -3,7 +3,7 @@
 
 }
 body{background-color:#3A3D3D;background-image:url(../img/arvo.jpg);background-position:right;background-repeat:no-repeat;
-background-attachment:scroll;}
+background-attachment:local,scroll;}
 h1 {font-family: 'Antic Didone', serif;
   font-size : 100px;
   letter-spacing : 2.5px;
